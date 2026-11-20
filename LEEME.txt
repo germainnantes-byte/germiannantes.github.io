@@ -1,0 +1,22 @@
+PORTAL INSTITUCIONAL - HUASQUILLAY / I.E. JEC OSCOLLOPATA (EDICIÓN PRO)
+
+CONTENIDO
+- Página web adaptable a celular, tablet y computadora.
+- 14 fotografías proporcionadas por el usuario.
+- Diseño renovado con colores vivos, fondos, secciones y galería.
+- No requiere instalar programas ni conexión a internet para abrirlo localmente.
+
+PARA VERLO
+1. Extrae el archivo ZIP.
+2. Abre la carpeta Portal_Huasquillay_Oscollopata_Pro.
+3. Haz doble clic en index.html.
+
+PARA PUBLICARLO
+Sube la carpeta completa (index.html y assets/) a un hosting estático.
+
+IMPORTANTE
+Antes de presentarlo como portal oficial, completar y verificar:
+- Escudo institucional oficial.
+- Dirección, teléfono y correo institucional.
+- Reseña histórica y datos de autoridades.
+- Enlaces de redes oficiales.
